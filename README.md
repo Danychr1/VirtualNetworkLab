@@ -6,7 +6,7 @@
 
 ## Description
 
-    In this project, we practiced network configuration and troubleshooting by building simulated networks instead of relying on physical equipment. We created our own network, configured various devices, and explored Internet of Things (IoT) and cybersecurity concepts. The lab was completed using Cisco Packet Tracer.
+  In this project, we practiced network configuration and troubleshooting by building simulated networks, rather than relying on physical equipment. We created our own network, configured various devices, and explored concepts related to the Internet of Things (IoT) and cybersecurity. The lab was completed using Cisco Packet Tracer.
 
     
 
