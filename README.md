@@ -23,10 +23,19 @@
                       
 <img width="1042" height="420" alt="Screenshot 2025-08-26 at 8 38 02 PM" src="https://github.com/user-attachments/assets/90a911bd-70ac-464a-ab1f-84589eb78022" />
 
+<img width="1318" height="850" alt="Screenshot 2025-08-26 at 9 04 58 PM" src="https://github.com/user-attachments/assets/421f055d-9728-43c6-bc01-439af1ef4eef" />
 
                                        Deploying Devices:
+                                       
+  - The laptop's wired card needed to be changed to a wireless interface in order to connect to the network.
+
+    <img width="654" height="662" alt="Screenshot 2025-08-27 at 11 13 56 AM" src="https://github.com/user-attachments/assets/cc5d2f74-8162-4963-8097-dd5a77ce5e62" />
+                                     
   - Example of a basic home network setup that includes a router, a laptop, and a gaming PC.
   
-<img width="1318" height="850" alt="Screenshot 2025-08-26 at 9 04 58 PM" src="https://github.com/user-attachments/assets/421f055d-9728-43c6-bc01-439af1ef4eef" />
+<img width="1570" height="1018" alt="Screenshot 2025-08-27 at 11 06 31 AM" src="https://github.com/user-attachments/assets/8934736f-7862-48c3-b489-005de64fb12f" />
+
+
+
 
 
