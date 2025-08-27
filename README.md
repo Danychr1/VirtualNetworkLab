@@ -15,16 +15,16 @@
 
 ## Program Walk-Through:
 
-                                  Install Cisco Packet Tracer 
+                                      Install Cisco Packet Tracer 
 
   <img width="1559" height="653" alt="Screenshot 2025-08-26 at 8 40 41 PM" src="https://github.com/user-attachments/assets/a145a0fc-ea72-4dd3-8309-4dd120bd93e4" />
 
-                        Become Familiar With the Application's User Interface:
+                            Become Familiar With the Application's User Interface:
                       
 <img width="1042" height="420" alt="Screenshot 2025-08-26 at 8 38 02 PM" src="https://github.com/user-attachments/assets/90a911bd-70ac-464a-ab1f-84589eb78022" />
 
 
-                                  Deploying Devices:
+                                       Deploying Devices:
 - Example of a basic home network setup that includes a router, a laptop, and a gaming PC.
 
   <img width="1361" height="875" alt="Screenshot 2025-08-26 at 8 55 14 PM" src="https://github.com/user-attachments/assets/e8d29fad-0200-484c-a28d-a0a9cf9818cb" />
