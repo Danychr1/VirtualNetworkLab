@@ -25,8 +25,8 @@
 
 
                                        Deploying Devices:
-- Example of a basic home network setup that includes a router, a laptop, and a gaming PC.
-
-  <img width="1361" height="875" alt="Screenshot 2025-08-26 at 8 55 14 PM" src="https://github.com/user-attachments/assets/e8d29fad-0200-484c-a28d-a0a9cf9818cb" />
+  - Example of a basic home network setup that includes a router, a laptop, and a gaming PC.
+  
+<img width="1318" height="850" alt="Screenshot 2025-08-26 at 9 04 58 PM" src="https://github.com/user-attachments/assets/421f055d-9728-43c6-bc01-439af1ef4eef" />
 
 
