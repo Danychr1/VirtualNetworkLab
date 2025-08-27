@@ -14,3 +14,13 @@
 - Cisco Internetwork Operating System (IOS)
 
 ## Program Walk-Through:
+
+                                   Install Cisco Packet Tracer 
+
+  <img width="1559" height="653" alt="Screenshot 2025-08-26 at 8 40 41 PM" src="https://github.com/user-attachments/assets/a145a0fc-ea72-4dd3-8309-4dd120bd93e4" />
+
+                      Become Familiar With the Application's User Interface:
+<img width="1042" height="420" alt="Screenshot 2025-08-26 at 8 38 02 PM" src="https://github.com/user-attachments/assets/90a911bd-70ac-464a-ab1f-84589eb78022" />
+
+
+
