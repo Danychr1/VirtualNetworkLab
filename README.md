@@ -45,7 +45,7 @@
 
 ## Lab Summary
 
-Module 1:
-In this module, we explored networking concepts without the need for physical equipment or impacting an existing network. We simulated an office/enterprise environment, visualized both the network topology and its physical components, and practiced configuring devices through the command line. The included instructional videos supported our learning and improved our skills with Cisco Packet Tracer’s features.
+Module: 
+In this module, we explored networking concepts without requiring physical equipment or impacting an existing network. We simulated an office/enterprise environment, visualized both the network topology and its physical components, and practiced configuring devices through the command line. The included instructional videos supported our learning and improved our skills with Cisco Packet Tracer’s features.
 
 
