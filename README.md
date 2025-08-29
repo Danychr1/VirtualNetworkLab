@@ -43,6 +43,9 @@
 
  <img width="1617" height="1022" alt="Screenshot 2025-08-28 at 9 13 57 PM" src="https://github.com/user-attachments/assets/09646016-4056-4a61-b10a-1bf656f50ef8" />
 
+## Lab Summary
 
+Module 1:
+In this module, we explored networking concepts without the need for physical equipment or impacting an existing network. We simulated an office/enterprise environment, visualized both the network topology and its physical components, and practiced configuring devices through the command line. The included instructional videos supported our learning and improved our skills with Cisco Packet Tracer’s features.
 
 
