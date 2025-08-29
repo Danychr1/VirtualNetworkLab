@@ -41,6 +41,3 @@
 
 
 
-<img width="1049" height="372" alt="Screenshot 2025-08-28 at 8 40 46 PM" src="https://github.com/user-attachments/assets/e5d39bea-a6ad-42e7-accd-69d98a02dade" />
-
-
