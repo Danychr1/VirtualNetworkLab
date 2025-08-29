@@ -35,9 +35,14 @@
   
 <img width="1570" height="1018" alt="Screenshot 2025-08-27 at 11 06 31 AM" src="https://github.com/user-attachments/assets/8934736f-7862-48c3-b489-005de64fb12f" />
 
-
+  ## 2.0 Packet Tracer File Types
 
 <img width="1036" height="578" alt="Screenshot 2025-08-28 at 8 41 46 PM" src="https://github.com/user-attachments/assets/968a5636-4001-48e5-9401-2d896b675342" />
+
+ ## 2.1 Build a Home Network
+
+ <img width="1617" height="1022" alt="Screenshot 2025-08-28 at 9 13 57 PM" src="https://github.com/user-attachments/assets/09646016-4056-4a61-b10a-1bf656f50ef8" />
+
 
 
 
